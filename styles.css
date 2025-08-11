@@ -2,3 +2,7 @@ body {
     color:darkgreen;
     background: beige;
 }
+
+header {
+    border: solid 2px darkgreen;
+}
