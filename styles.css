@@ -4,5 +4,5 @@ body {
 }
 
 header {
-    border: solid 2px darkgreen;
+    border-bottom: solid 2px darkgreen;
 }
