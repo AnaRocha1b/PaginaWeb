@@ -1,5 +1,5 @@
 body {
-    color:black;
+    color: black;
     background: beige;
     margin: 0px;
 }
@@ -8,11 +8,11 @@ header {
     border-bottom: solid 2px darkgreen;
     padding: 20px;
     font-size: 32px;
-    color:darkgreen;
+    color: darkgreen;
 }
 
 section {
-    background: rgb(211,196,173);
+    background: rgb(211, 196, 173);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
