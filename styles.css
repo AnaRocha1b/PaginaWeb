@@ -21,9 +21,13 @@ section {
 }
 
 .chamada-texto {
-    margin-right: 3%;
+    margin-right: 4%;
 }
 
 h1 {
     font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
